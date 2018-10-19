@@ -20,7 +20,7 @@ namespace DBCSharpTut
         {
             // Simple "Hello" write script, writeline - it will put a new line
             // in the end - have to end line with ";" !!!
-            Console.WriteLine("Hello Annia");
+            Console.WriteLine("Hello Annia, whats up?");
             // to keep console open we have to add one more line
             // this will make it close on hitting return ("enter")
             Console.ReadLine();
